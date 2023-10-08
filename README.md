@@ -1,31 +1,18 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[Project Title\]
+# \[NoteTaker\]
 
 ### Team Members
-- Name 1 (Project Lead)
-- Name 2
-- Name 3
+- Vincent Cimino (Project Lead)
+- Colin Luangrath
+- Wangzu Ge
+- Will Dart
+- Justin Wang
 
 ### Project Description
-Describe the goal of your project here.
+NoteTaker's vision is to be a software for people to save ideas, feelings, and images in the form of daily notes in order to save them in a visually appealing and convenient calendar that syncs across their devices.
 
 ### Built With
-- List any languages, frameworks, tools, etc. that your project uses here
-
-## Getting Started
-This is where you give instructions on how to run your project
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Currently, we are looking to use React.js and Python as our stack
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -40,5 +27,3 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-## Demo
-If your app is hosted on a published website, include the link here
